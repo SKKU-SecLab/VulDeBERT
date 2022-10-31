@@ -1,7 +1,7 @@
 # VulDeBERT: A Vulnerability Detection System Using BERT
 
-#### Soolin Kim*, Jusop Choi*, Ejaz Ahmed**, Surya Nepal**, and Hyoungshick Kim*.
-##### Sungkyunkwan University*, CSIRO Data61**
+#### Soolin Kim*+, Jusop Choi*, Ejaz Ahmed+, Surya Nepal+, and Hyoungshick Kim*+.
+##### Sungkyunkwan University*, CSIRO Data61+
 
 ---
 
