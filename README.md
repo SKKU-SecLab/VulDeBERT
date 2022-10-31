@@ -13,4 +13,4 @@ Deep learning technologies recently received much attention to detect vulnerable
 
 
 * VulDeBERT dataset focuses on two types of vulnerabilities in C and C++ programs (i.e., buffer error vulnerability (CWE-119) and resource management error vulnerability (CWE-399)).
-## ___VulDeBERT source code will be publicly released___.
+
