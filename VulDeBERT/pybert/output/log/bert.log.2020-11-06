@@ -1,0 +1,50 @@
+[2020-11-04 17:34:41]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-04 17:34:41]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-04 17:35:08]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-04 17:35:08]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-04 17:35:26]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-04 17:35:26]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-04 17:35:29]: bert data_transformer.py[line:127] INFO  train val split
+[2020-11-04 17:35:30]: bert train_vdp.py[line:104] INFO  initializing model
+[2020-11-04 17:35:34]: bert train_vdp.py[line:129] INFO  initializing callbacks
+[2020-11-04 17:35:34]: bert train_vdp.py[line:147] INFO  training model....
+[2020-11-04 21:43:49]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.1592 - f1: 0.7668 - recall: 0.7150 - precision: 0.8268 - valid_loss: 0.0683 - valid_f1: 0.9115 - valid_recall: 0.8897 - valid_precision: 0.9345 
+[2020-11-04 21:43:49]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.06832
+[2020-11-05 01:54:01]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.0548 - f1: 0.9269 - recall: 0.9039 - precision: 0.9511 - valid_loss: 0.0553 - valid_f1: 0.9251 - valid_recall: 0.9047 - valid_precision: 0.9464 
+[2020-11-05 01:54:02]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.06832 to 0.05532
+[2020-11-05 06:04:28]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0438 - f1: 0.9401 - recall: 0.9198 - precision: 0.9613 - valid_loss: 0.0536 - valid_f1: 0.9277 - valid_recall: 0.9114 - valid_precision: 0.9446 
+[2020-11-05 06:04:29]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.05532 to 0.05363
+[2020-11-06 16:07:27]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:07:27]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:29:19]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:29:19]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:35:25]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:35:25]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:38:37]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:38:37]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:39:08]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:39:08]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:41:28]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:41:28]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:41:34]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:41:34]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:51:39]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:51:39]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 16:54:38]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 16:54:38]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 17:06:25]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 17:06:25]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 17:28:54]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 17:28:54]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 17:29:00]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-06 17:29:00]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-06 17:29:38]: bert data_transformer.py[line:105] INFO  train val split
+[2020-11-06 17:29:46]: bert train_vdp.py[line:104] INFO  initializing model
+[2020-11-06 17:29:49]: bert train_vdp.py[line:129] INFO  initializing callbacks
+[2020-11-06 17:29:49]: bert train_vdp.py[line:147] INFO  training model....

@@ -1,0 +1,4 @@
+[2021-04-07 14:25:39]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2021-04-07 14:25:39]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2021-04-07 14:26:02]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2021-04-07 14:26:02]: bert train_vdp.py[line:52] INFO  starting load data from disk

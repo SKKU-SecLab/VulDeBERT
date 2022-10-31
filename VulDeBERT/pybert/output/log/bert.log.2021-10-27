@@ -1,0 +1,222 @@
+[2021-10-26 14:49:35]: bert bert.py[line:250] INFO  seed is 2021
+[2021-10-26 14:49:35]: bert bert.py[line:253] INFO  starting load data from disk
+[2021-10-26 14:49:36]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-26 14:49:37]: bert bert.py[line:341] INFO  initializing model
+[2021-10-26 14:49:40]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-26 14:49:40]: bert bert.py[line:384] INFO  training model....
+[2021-10-26 14:57:45]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2615 - f1: 0.8846 - recall: 0.8846 - precision: 0.8846 - valid_loss: 0.1058 - valid_f1: 0.9548 - valid_recall: 0.9548 - valid_precision: 0.9548 
+[2021-10-26 14:57:45]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.10576
+[2021-10-26 15:05:52]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1050 - f1: 0.9543 - recall: 0.9543 - precision: 0.9543 - valid_loss: 0.0829 - valid_f1: 0.9639 - valid_recall: 0.9639 - valid_precision: 0.9639 
+[2021-10-26 15:05:52]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.10576 to 0.08293
+[2021-10-26 15:13:54]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0875 - f1: 0.9636 - recall: 0.9636 - precision: 0.9636 - valid_loss: 0.0815 - valid_f1: 0.9650 - valid_recall: 0.9650 - valid_precision: 0.9650 
+[2021-10-26 15:13:55]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.08293 to 0.08148
+[2021-10-26 15:13:57]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-26 15:13:57]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-26 15:13:58]: bert bert.py[line:110] INFO  initializing model
+[2021-10-26 15:14:00]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 01:28:27]: bert bert.py[line:250] INFO  seed is 2021
+[2021-10-27 01:28:27]: bert bert.py[line:253] INFO  starting load data from disk
+[2021-10-27 01:28:29]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 01:28:29]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 01:28:32]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 01:28:32]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 01:36:34]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2615 - f1: 0.8846 - recall: 0.8846 - precision: 0.8846 - valid_loss: 0.1058 - valid_f1: 0.9548 - valid_recall: 0.9548 - valid_precision: 0.9548 
+[2021-10-27 01:36:34]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.10576
+[2021-10-27 01:44:31]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1050 - f1: 0.9543 - recall: 0.9543 - precision: 0.9543 - valid_loss: 0.0829 - valid_f1: 0.9639 - valid_recall: 0.9639 - valid_precision: 0.9639 
+[2021-10-27 01:44:32]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.10576 to 0.08293
+[2021-10-27 01:52:22]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0875 - f1: 0.9636 - recall: 0.9636 - precision: 0.9636 - valid_loss: 0.0815 - valid_f1: 0.9650 - valid_recall: 0.9650 - valid_precision: 0.9650 
+[2021-10-27 01:52:23]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.08293 to 0.08148
+[2021-10-27 01:52:25]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 01:52:25]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 01:52:25]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 01:52:27]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 01:52:43]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 01:52:44]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 01:52:46]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 01:52:46]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 02:00:43]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2803 - f1: 0.8710 - recall: 0.8710 - precision: 0.8710 - valid_loss: 0.1176 - valid_f1: 0.9518 - valid_recall: 0.9518 - valid_precision: 0.9518 
+[2021-10-27 02:00:43]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.11761
+[2021-10-27 02:08:43]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1073 - f1: 0.9548 - recall: 0.9548 - precision: 0.9548 - valid_loss: 0.0943 - valid_f1: 0.9624 - valid_recall: 0.9624 - valid_precision: 0.9624 
+[2021-10-27 02:08:44]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.11761 to 0.09434
+[2021-10-27 02:16:42]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0887 - f1: 0.9626 - recall: 0.9626 - precision: 0.9626 - valid_loss: 0.0844 - valid_f1: 0.9644 - valid_recall: 0.9644 - valid_precision: 0.9644 
+[2021-10-27 02:16:43]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.09434 to 0.08439
+[2021-10-27 02:16:45]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 02:16:45]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 02:16:45]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 02:16:48]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 02:17:04]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 02:17:04]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 02:17:07]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 02:17:07]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 02:25:06]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2632 - f1: 0.8763 - recall: 0.8763 - precision: 0.8763 - valid_loss: 0.0996 - valid_f1: 0.9578 - valid_recall: 0.9578 - valid_precision: 0.9578 
+[2021-10-27 02:25:06]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.09961
+[2021-10-27 02:33:02]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1030 - f1: 0.9554 - recall: 0.9554 - precision: 0.9554 - valid_loss: 0.0805 - valid_f1: 0.9624 - valid_recall: 0.9624 - valid_precision: 0.9624 
+[2021-10-27 02:33:03]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.09961 to 0.08049
+[2021-10-27 02:40:56]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0841 - f1: 0.9632 - recall: 0.9632 - precision: 0.9632 - valid_loss: 0.0825 - valid_f1: 0.9650 - valid_recall: 0.9650 - valid_precision: 0.9650 
+[2021-10-27 02:40:57]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 02:40:57]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 02:40:57]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 02:40:59]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 02:41:16]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 02:41:16]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 02:41:19]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 02:41:19]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 02:49:19]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2855 - f1: 0.8687 - recall: 0.8687 - precision: 0.8687 - valid_loss: 0.1149 - valid_f1: 0.9533 - valid_recall: 0.9533 - valid_precision: 0.9533 
+[2021-10-27 02:49:19]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.11489
+[2021-10-27 02:57:21]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1154 - f1: 0.9495 - recall: 0.9495 - precision: 0.9495 - valid_loss: 0.0992 - valid_f1: 0.9568 - valid_recall: 0.9568 - valid_precision: 0.9568 
+[2021-10-27 02:57:21]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.11489 to 0.09924
+[2021-10-27 03:05:19]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0940 - f1: 0.9599 - recall: 0.9599 - precision: 0.9599 - valid_loss: 0.0923 - valid_f1: 0.9629 - valid_recall: 0.9629 - valid_precision: 0.9629 
+[2021-10-27 03:05:20]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.09924 to 0.09232
+[2021-10-27 03:05:22]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 03:05:22]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 03:05:22]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 03:05:25]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 03:05:41]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 03:05:42]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 03:05:44]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 03:05:44]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 03:13:40]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2713 - f1: 0.8741 - recall: 0.8741 - precision: 0.8741 - valid_loss: 0.1256 - valid_f1: 0.9487 - valid_recall: 0.9487 - valid_precision: 0.9487 
+[2021-10-27 03:13:40]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.12559
+[2021-10-27 03:21:42]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1076 - f1: 0.9550 - recall: 0.9550 - precision: 0.9550 - valid_loss: 0.1057 - valid_f1: 0.9553 - valid_recall: 0.9553 - valid_precision: 0.9553 
+[2021-10-27 03:21:43]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.12559 to 0.10570
+[2021-10-27 03:29:38]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0857 - f1: 0.9643 - recall: 0.9643 - precision: 0.9643 - valid_loss: 0.1037 - valid_f1: 0.9568 - valid_recall: 0.9568 - valid_precision: 0.9568 
+[2021-10-27 03:29:38]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.10570 to 0.10367
+[2021-10-27 03:29:40]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 03:29:40]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 03:29:41]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 03:29:43]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 03:30:00]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 03:30:00]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 03:30:03]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 03:30:03]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 03:38:01]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2764 - f1: 0.8720 - recall: 0.8720 - precision: 0.8720 - valid_loss: 0.1328 - valid_f1: 0.9502 - valid_recall: 0.9502 - valid_precision: 0.9502 
+[2021-10-27 03:38:01]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.13275
+[2021-10-27 03:46:01]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1075 - f1: 0.9548 - recall: 0.9548 - precision: 0.9548 - valid_loss: 0.1046 - valid_f1: 0.9553 - valid_recall: 0.9553 - valid_precision: 0.9553 
+[2021-10-27 03:46:01]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.13275 to 0.10459
+[2021-10-27 03:53:56]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0844 - f1: 0.9623 - recall: 0.9623 - precision: 0.9623 - valid_loss: 0.1039 - valid_f1: 0.9568 - valid_recall: 0.9568 - valid_precision: 0.9568 
+[2021-10-27 03:53:57]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.10459 to 0.10393
+[2021-10-27 03:53:59]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 03:53:59]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 03:53:59]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 03:54:02]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 03:54:18]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 03:54:19]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 03:54:21]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 03:54:21]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 04:02:23]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2770 - f1: 0.8701 - recall: 0.8701 - precision: 0.8701 - valid_loss: 0.1415 - valid_f1: 0.9426 - valid_recall: 0.9426 - valid_precision: 0.9426 
+[2021-10-27 04:02:23]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.14153
+[2021-10-27 04:10:10]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1044 - f1: 0.9564 - recall: 0.9564 - precision: 0.9564 - valid_loss: 0.1090 - valid_f1: 0.9538 - valid_recall: 0.9538 - valid_precision: 0.9538 
+[2021-10-27 04:10:11]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.14153 to 0.10902
+[2021-10-27 04:18:09]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0839 - f1: 0.9635 - recall: 0.9635 - precision: 0.9635 - valid_loss: 0.1085 - valid_f1: 0.9528 - valid_recall: 0.9528 - valid_precision: 0.9528 
+[2021-10-27 04:18:09]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.10902 to 0.10848
+[2021-10-27 04:18:11]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 04:18:11]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 04:18:12]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 04:18:14]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 04:18:30]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 04:18:31]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 04:18:33]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 04:18:33]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 04:26:32]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.3029 - f1: 0.8613 - recall: 0.8613 - precision: 0.8613 - valid_loss: 0.1297 - valid_f1: 0.9472 - valid_recall: 0.9472 - valid_precision: 0.9472 
+[2021-10-27 04:26:32]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.12968
+[2021-10-27 04:34:35]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1079 - f1: 0.9526 - recall: 0.9526 - precision: 0.9526 - valid_loss: 0.0982 - valid_f1: 0.9568 - valid_recall: 0.9568 - valid_precision: 0.9568 
+[2021-10-27 04:34:36]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.12968 to 0.09820
+[2021-10-27 04:42:27]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0868 - f1: 0.9621 - recall: 0.9621 - precision: 0.9621 - valid_loss: 0.0965 - valid_f1: 0.9568 - valid_recall: 0.9568 - valid_precision: 0.9568 
+[2021-10-27 04:42:28]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.09820 to 0.09654
+[2021-10-27 04:42:30]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 04:42:30]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 04:42:30]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 04:42:32]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 04:42:49]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 04:42:49]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 04:42:52]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 04:42:52]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 04:50:52]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2841 - f1: 0.8656 - recall: 0.8656 - precision: 0.8656 - valid_loss: 0.1306 - valid_f1: 0.9457 - valid_recall: 0.9457 - valid_precision: 0.9457 
+[2021-10-27 04:50:52]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.13061
+[2021-10-27 04:58:55]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1064 - f1: 0.9540 - recall: 0.9540 - precision: 0.9540 - valid_loss: 0.0972 - valid_f1: 0.9599 - valid_recall: 0.9599 - valid_precision: 0.9599 
+[2021-10-27 04:58:56]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.13061 to 0.09720
+[2021-10-27 05:06:58]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0872 - f1: 0.9614 - recall: 0.9614 - precision: 0.9614 - valid_loss: 0.0949 - valid_f1: 0.9594 - valid_recall: 0.9594 - valid_precision: 0.9594 
+[2021-10-27 05:06:58]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.09720 to 0.09487
+[2021-10-27 05:07:01]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 05:07:01]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 05:07:01]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 05:07:03]: bert bert.py[line:116] INFO  model predicting....
+[2021-10-27 05:07:20]: bert data_transformer.py[line:105] INFO  train val split
+[2021-10-27 05:07:21]: bert bert.py[line:341] INFO  initializing model
+[2021-10-27 05:07:23]: bert bert.py[line:366] INFO  initializing callbacks
+[2021-10-27 05:07:23]: bert bert.py[line:384] INFO  training model....
+[2021-10-27 05:15:23]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.2843 - f1: 0.8640 - recall: 0.8640 - precision: 0.8640 - valid_loss: 0.1591 - valid_f1: 0.9370 - valid_recall: 0.9370 - valid_precision: 0.9370 
+[2021-10-27 05:15:23]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.15914
+[2021-10-27 05:23:27]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1096 - f1: 0.9537 - recall: 0.9537 - precision: 0.9537 - valid_loss: 0.1125 - valid_f1: 0.9558 - valid_recall: 0.9558 - valid_precision: 0.9558 
+[2021-10-27 05:23:28]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.15914 to 0.11246
+[2021-10-27 05:31:31]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.0874 - f1: 0.9633 - recall: 0.9633 - precision: 0.9633 - valid_loss: 0.1114 - valid_f1: 0.9589 - valid_recall: 0.9589 - valid_precision: 0.9589 
+[2021-10-27 05:31:31]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.11246 to 0.11139
+[2021-10-27 05:31:33]: bert bert.py[line:74] INFO  seed is 2021
+[2021-10-27 05:31:33]: bert bert.py[line:77] INFO  starting load data from disk
+[2021-10-27 05:31:34]: bert bert.py[line:110] INFO  initializing model
+[2021-10-27 05:31:36]: bert bert.py[line:116] INFO  model predicting....

@@ -1,0 +1,8 @@
+[2020-07-24 11:49:48]: bert test_vdp.py[line:27] INFO  seed is 2018
+[2020-07-24 11:49:48]: bert test_vdp.py[line:30] INFO  starting load data from disk
+[2020-07-24 11:49:48]: bert test_vdp.py[line:61] INFO  initializing model
+[2020-07-24 11:49:52]: bert test_vdp.py[line:67] INFO  model predicting....
+[2020-07-24 11:57:06]: bert test_vdp.py[line:27] INFO  seed is 2018
+[2020-07-24 11:57:06]: bert test_vdp.py[line:30] INFO  starting load data from disk
+[2020-07-24 11:57:06]: bert test_vdp.py[line:61] INFO  initializing model
+[2020-07-24 11:57:09]: bert test_vdp.py[line:67] INFO  model predicting....

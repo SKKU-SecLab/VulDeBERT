@@ -1,0 +1,174 @@
+[2020-07-20 09:43:28]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 09:43:28]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 09:44:02]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 09:44:02]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 09:44:07]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 09:44:10]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-20 10:10:29]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 10:10:29]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 10:10:34]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 10:10:37]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-20 12:24:49]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 12:24:49]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 12:24:59]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 12:24:59]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 12:25:03]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 12:25:06]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-20 13:59:59]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 13:59:59]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 14:00:03]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 14:00:06]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-20 16:00:58]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 16:00:58]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 16:01:02]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 16:01:05]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-20 16:05:07]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 16:05:07]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 16:05:12]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 16:05:15]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-20 16:08:23]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-20 16:08:23]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-20 16:08:27]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-20 16:08:30]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-21 11:00:07]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-21 11:00:07]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-21 11:00:11]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-21 11:00:14]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-21 11:42:56]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-21 11:42:56]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-21 11:43:00]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-21 11:43:03]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-21 13:23:54]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-21 13:23:54]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-21 13:23:58]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-21 13:24:01]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-21 14:25:14]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-21 14:25:14]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-21 14:25:18]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-21 14:25:21]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-21 14:26:17]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-21 14:26:17]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-21 14:26:21]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-21 14:26:23]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-21 15:57:11]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-21 15:57:11]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-21 15:57:11]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-21 15:57:14]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 09:23:30]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 09:23:30]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 09:23:31]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 09:23:34]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 09:39:21]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 09:39:21]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 09:39:22]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 09:39:25]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 09:40:20]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 09:40:20]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 09:40:20]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 09:40:23]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 10:07:32]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 10:07:32]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 10:07:33]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 10:07:36]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 10:41:34]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 10:41:34]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 10:41:35]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 10:41:38]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 10:53:51]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 10:53:51]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 10:53:51]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 10:53:54]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:16:42]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:16:42]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:16:43]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:16:46]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:30:19]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:30:19]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:30:19]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:30:22]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:34:54]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:34:54]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:34:55]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:34:58]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:39:43]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:39:43]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:39:43]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:39:46]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:44:19]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:44:19]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:44:20]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:44:23]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:49:17]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:49:17]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:49:17]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:49:20]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 11:55:54]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 11:55:54]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 11:55:55]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 11:55:57]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:04:00]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:04:00]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:04:00]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:04:03]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:14:11]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:14:11]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:14:11]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:14:14]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:20:51]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:20:51]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:20:51]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:20:54]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:24:07]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:24:07]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:24:07]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:24:10]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:33:34]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:33:34]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:33:34]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:33:37]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:36:38]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:36:38]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:36:38]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:36:41]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:41:39]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:41:39]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:41:39]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:41:42]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:51:25]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:51:25]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:51:25]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:51:28]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 12:57:06]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 12:57:06]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 12:57:06]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 12:57:09]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 13:03:25]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:03:25]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:03:25]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 13:03:28]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 13:08:13]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:08:13]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:08:14]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 13:08:17]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 13:21:19]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:21:19]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:21:19]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 13:21:22]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 13:25:47]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:25:47]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:25:47]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 13:25:50]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 13:30:20]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:30:20]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:30:40]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:30:40]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:30:44]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 13:30:47]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 13:47:09]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 13:47:09]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 13:47:13]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 13:47:16]: bert test_vdp.py[line:66] INFO  model predicting....
+[2020-07-22 14:55:33]: bert test_vdp.py[line:26] INFO  seed is 2018
+[2020-07-22 14:55:33]: bert test_vdp.py[line:29] INFO  starting load data from disk
+[2020-07-22 14:55:37]: bert test_vdp.py[line:60] INFO  initializing model
+[2020-07-22 14:55:40]: bert test_vdp.py[line:66] INFO  model predicting....

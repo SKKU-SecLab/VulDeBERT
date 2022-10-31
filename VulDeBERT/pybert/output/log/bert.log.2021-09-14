@@ -1,0 +1,66 @@
+[2021-09-14 18:02:02]: bert test2_vdp.py[line:62] INFO  seed is 2018
+[2021-09-14 18:02:02]: bert test2_vdp.py[line:65] INFO  starting load data from disk
+[2021-09-14 18:02:08]: bert test2_vdp.py[line:96] INFO  initializing model
+[2021-09-14 18:02:11]: bert test2_vdp.py[line:102] INFO  model predicting....
+[2021-09-14 18:05:08]: bert test2_vdp.py[line:62] INFO  seed is 2018
+[2021-09-14 18:05:08]: bert test2_vdp.py[line:65] INFO  starting load data from disk
+[2021-09-14 18:05:13]: bert test2_vdp.py[line:96] INFO  initializing model
+[2021-09-14 18:05:16]: bert test2_vdp.py[line:102] INFO  model predicting....
+[2021-09-14 18:07:34]: bert test2_vdp.py[line:62] INFO  seed is 2018
+[2021-09-14 18:07:34]: bert test2_vdp.py[line:65] INFO  starting load data from disk
+[2021-09-14 18:07:40]: bert test2_vdp.py[line:96] INFO  initializing model
+[2021-09-14 18:07:42]: bert test2_vdp.py[line:102] INFO  model predicting....
+[2021-09-14 18:10:40]: bert test2_vdp.py[line:62] INFO  seed is 2018
+[2021-09-14 18:10:40]: bert test2_vdp.py[line:65] INFO  starting load data from disk
+[2021-09-14 18:10:45]: bert test2_vdp.py[line:96] INFO  initializing model
+[2021-09-14 18:10:47]: bert test2_vdp.py[line:102] INFO  model predicting....
+[2021-09-14 18:14:54]: bert test2_vdp.py[line:62] INFO  seed is 2018
+[2021-09-14 18:14:54]: bert test2_vdp.py[line:65] INFO  starting load data from disk
+[2021-09-14 18:14:59]: bert test2_vdp.py[line:96] INFO  initializing model
+[2021-09-14 18:15:02]: bert test2_vdp.py[line:102] INFO  model predicting....
+[2021-09-14 18:18:55]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2021-09-14 18:18:55]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2021-09-14 18:19:14]: bert data_transformer.py[line:105] INFO  train val split
+[2021-09-14 18:19:15]: bert train_vdp.py[line:104] INFO  initializing model
+[2021-09-14 18:19:18]: bert train_vdp.py[line:129] INFO  initializing callbacks
+[2021-09-14 18:19:18]: bert train_vdp.py[line:147] INFO  training model....
+[2021-09-14 18:23:07]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.3815 - f1: 0.8236 - recall: 0.8236 - precision: 0.8236 - valid_loss: 0.2069 - valid_f1: 0.9143 - valid_recall: 0.9143 - valid_precision: 0.9143 
+[2021-09-14 18:23:07]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.20689
+[2021-09-14 18:26:35]: bert trainer.py[line:180] INFO  
+Epoch: 2 -  loss: 0.1901 - f1: 0.9266 - recall: 0.9266 - precision: 0.9266 - valid_loss: 0.1587 - valid_f1: 0.9364 - valid_recall: 0.9364 - valid_precision: 0.9364 
+[2021-09-14 18:26:35]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.20689 to 0.15865
+[2021-09-14 18:30:02]: bert trainer.py[line:180] INFO  
+Epoch: 3 -  loss: 0.1579 - f1: 0.9348 - recall: 0.9348 - precision: 0.9348 - valid_loss: 0.1532 - valid_f1: 0.9449 - valid_recall: 0.9449 - valid_precision: 0.9449 
+[2021-09-14 18:30:03]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 3: valid_loss improved from 0.15865 to 0.15321
+[2021-09-14 21:02:58]: bert test_vdp.py[line:56] INFO  seed is 2018
+[2021-09-14 21:02:58]: bert test_vdp.py[line:59] INFO  starting load data from disk
+[2021-09-14 21:03:03]: bert test_vdp.py[line:90] INFO  initializing model
+[2021-09-14 21:03:06]: bert test_vdp.py[line:96] INFO  model predicting....
+[2021-09-14 21:18:44]: bert test_vdp.py[line:56] INFO  seed is 2018
+[2021-09-14 21:18:44]: bert test_vdp.py[line:59] INFO  starting load data from disk
+[2021-09-14 21:18:49]: bert test_vdp.py[line:90] INFO  initializing model
+[2021-09-14 21:18:52]: bert test_vdp.py[line:96] INFO  model predicting....
+[2021-09-14 21:34:45]: bert test_vdp.py[line:56] INFO  seed is 2018
+[2021-09-14 21:34:45]: bert test_vdp.py[line:59] INFO  starting load data from disk
+[2021-09-14 21:34:50]: bert test_vdp.py[line:90] INFO  initializing model
+[2021-09-14 21:34:53]: bert test_vdp.py[line:96] INFO  model predicting....
+[2021-09-14 21:37:30]: bert test_vdp.py[line:52] INFO  seed is 2018
+[2021-09-14 21:37:30]: bert test_vdp.py[line:55] INFO  starting load data from disk
+[2021-09-14 21:37:35]: bert test_vdp.py[line:86] INFO  initializing model
+[2021-09-14 21:37:38]: bert test_vdp.py[line:92] INFO  model predicting....
+[2021-09-14 21:42:06]: bert test_vdp.py[line:52] INFO  seed is 2018
+[2021-09-14 21:42:06]: bert test_vdp.py[line:55] INFO  starting load data from disk
+[2021-09-14 21:42:12]: bert test_vdp.py[line:86] INFO  initializing model
+[2021-09-14 21:42:14]: bert test_vdp.py[line:92] INFO  model predicting....
+[2021-09-14 21:46:33]: bert test_vdp.py[line:52] INFO  seed is 2018
+[2021-09-14 21:46:33]: bert test_vdp.py[line:55] INFO  starting load data from disk
+[2021-09-14 21:46:39]: bert test_vdp.py[line:86] INFO  initializing model
+[2021-09-14 21:46:41]: bert test_vdp.py[line:92] INFO  model predicting....
+[2021-09-14 21:49:22]: bert test_vdp.py[line:52] INFO  seed is 2018
+[2021-09-14 21:49:22]: bert test_vdp.py[line:55] INFO  starting load data from disk
+[2021-09-14 21:49:27]: bert test_vdp.py[line:86] INFO  initializing model
+[2021-09-14 21:49:30]: bert test_vdp.py[line:92] INFO  model predicting....

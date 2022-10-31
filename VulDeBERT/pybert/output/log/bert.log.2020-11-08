@@ -1,0 +1,4 @@
+[2020-11-08 05:56:50]: bert trainer.py[line:180] INFO  
+Epoch: 1 -  loss: 0.0511 - f1: 0.9638 - recall: 0.9725 - precision: 0.9553 - valid_loss: 0.0059 - valid_f1: 0.9959 - valid_recall: 0.9968 - valid_precision: 0.9950 
+[2020-11-08 05:56:50]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.00595

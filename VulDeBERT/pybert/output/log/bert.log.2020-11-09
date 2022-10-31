@@ -1,0 +1,6 @@
+[2020-11-09 15:12:16]: bert train_vdp.py[line:49] INFO  seed is 2018
+[2020-11-09 15:12:16]: bert train_vdp.py[line:52] INFO  starting load data from disk
+[2020-11-09 15:12:45]: bert data_transformer.py[line:105] INFO  train val split
+[2020-11-09 15:12:51]: bert train_vdp.py[line:104] INFO  initializing model
+[2020-11-09 15:12:54]: bert train_vdp.py[line:129] INFO  initializing callbacks
+[2020-11-09 15:12:54]: bert train_vdp.py[line:147] INFO  training model....
